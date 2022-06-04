@@ -14,7 +14,10 @@
 */
 
 /* Table Styles */
-
+article> table{
+   background-image: linear-gradient(rgb(190,215,255), black);
+   border:5px solid gray;
+}
 
 
 /* Column Styles */

@@ -44,10 +44,12 @@ col.dataCols{
 
 /* Table Header Styles */
 table.pricing>thead  {
-height: 60px;
+   height: 60px;
 }
 
-
+thead:first-of-type{
+   Font-size:2em;
+}
 
 
 

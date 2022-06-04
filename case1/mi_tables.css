@@ -28,7 +28,11 @@ th{
    color: rgb(130, 210,255);
    font-weight: normal;
 }
-
+td{
+   color:white;
+   font-size:0.9em;
+   text-align:top;
+}
 /* Column Styles */
 
 

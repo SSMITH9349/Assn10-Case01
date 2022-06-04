@@ -43,7 +43,9 @@ col.dataCols{
 
 
 /* Table Header Styles */
-
+table.pricing>thead  {
+height: 60px;
+}
 
 
 

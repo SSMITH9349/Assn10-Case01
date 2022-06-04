@@ -47,7 +47,7 @@ table.pricing>thead  {
    height: 60px;
 }
 
-thead:first-of-type{
+thead th:first-of-type{
    Font-size:2em;
 }
 

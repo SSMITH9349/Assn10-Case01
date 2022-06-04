@@ -31,7 +31,7 @@ th{
 td{
    color:white;
    font-size:0.9em;
-   text-align:top;
+   vertical-align: top;
 }
 /* Column Styles */
 

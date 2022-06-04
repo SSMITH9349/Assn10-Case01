@@ -43,10 +43,18 @@ col.dataCols{
 
 
 /* Table Header Styles */
+table.pricing>thead  {
+   height: 60px;
+}
 
+thead th:first-of-type{
+   Font-size:2em;
+}
 
-
-
+thead th:not(:first-of-type){
+   background-color:transparent;
+   color:black;
+}
 
 
 
